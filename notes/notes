@@ -1,6 +1,6 @@
+<refer project naruto for docker related stuffs>
 kubectl - cli to interact with api server of master node
 load docker image in minikube cluster
 minikube image load <image-name>
 list services available in minikube
 kubectl get service
-
